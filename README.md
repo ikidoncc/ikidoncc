@@ -4,10 +4,9 @@
 
 <h3>Projects</h3>
 
-<p>
-Newby Compiler<br />
-TimeCat
-</p>
+<a href="https://github.com/ikidoncc/NewbyLang">Newby Compiler</a>
+<br />
+<a href="https://github.com/ikidoncc/TimeCat">TimeCat</a>
 
 <h3>Stack</h3>
 
