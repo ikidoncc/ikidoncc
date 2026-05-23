@@ -25,3 +25,5 @@ System architecture • Backend • Real-world projects
 <a href="mailto:ikidon.cc@gmail.com">ikidon.cc@gmail.com</a>
 <br />
 <a href="https://linkedin.com/in/ikidoncc">linkedin.com/in/ikidoncc</a>
+
+![Periodic Table of the Elements](/periodic-table.svg)
