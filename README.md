@@ -1,11 +1,7 @@
-<h3>Stack</h3>
+<h1 align=center>João Antônio de Lima Gonçalves</h1>
 
-<p>
-Go • C • JavaScript • TypeScript • Node.js • React Native • Docker
+<h3 align=center>Full Stack Developer | Web & Mobile Aplications | Server Mantainer</h3>
+
+<p align=center>
+Python • Go • Java • C • JavaScript/TypeScript • Node.js • React Native • Docker • Linux
 </p>
-
-<h3>Contact</h3>
-
-<a href="mailto:ikidon.cc@gmail.com">ikidon.cc@gmail.com</a>
-<br />
-<a href="https://linkedin.com/in/ikidoncc">linkedin.com/in/ikidoncc</a>
