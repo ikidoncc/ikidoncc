@@ -3,5 +3,5 @@
 <h3 align=center>Full Stack Developer | Web & Mobile Aplications | Server Mantainer</h3>
 
 <p align=center>
-Python • Go • Java • C • JavaScript/TypeScript • Node.js • React Native • Docker • Linux
+JavaScript/TypeScript • Node.js • React Native • Docker • Linux
 </p>
